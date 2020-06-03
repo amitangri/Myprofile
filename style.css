@@ -66,6 +66,11 @@ body{
     width: 45%;
     
 }
+
+.photo img{
+    height: 650px;
+
+}
 .intro{
     width:45%;
     margin-top: 180px;
@@ -247,7 +252,7 @@ background-color: blanchedalmond;
         width:100%;
         margin: 0px 0px 0px 0px;
         z-index: 1; 
-        background-color: grey;
+        background-color:black;
         position: fixed;
         top:10px;
     }
@@ -274,8 +279,27 @@ background-color: blanchedalmond;
     .nav a:hover{ 
         text-decoration: underline;
         font-weight: bolder;
-        color: rgb(12, 238, 87);
+        color: rgb(12, 174, 238);
     }
+    ,main{
+        height: 2500px;
+    }
+    .photo{
+        margin-left: -250px;
+    }
+
+    .photo img{
+        height: 1100px;
+    
+    }
+    .intro{
+        width:45%;
+        margin-top: 180px;
+        font-size: 70px;
+        margin-left: 250px;  
+    }
+
+
 
     .aboutext{
         display: block;
