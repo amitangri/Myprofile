@@ -289,7 +289,7 @@ background-color: blanchedalmond;
     }
 
     .photo img{
-        height: 2000px;
+        height: 1850px;
     
     }
     .intro{
@@ -298,9 +298,7 @@ background-color: blanchedalmond;
         font-size: 70px;
         margin-left: 350px;  
     }
-    .intro span{
-        font-size: 80px;
-    }
+   
     .link{
         margin-top: 450px
     }
