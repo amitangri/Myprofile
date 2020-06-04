@@ -302,9 +302,12 @@ background-color: blanchedalmond;
         margin-top: 450px
     }
     .amitopedia{
-        margin-left: 25%;
-        width: 400px;
+        margin-left: 20%;
+        width: 450px;
 
+    }
+    .description {
+        font-size: 40px;
     }
 
 
