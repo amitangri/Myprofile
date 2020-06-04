@@ -285,21 +285,24 @@ background-color: blanchedalmond;
         height: 2500px;
     }
     .photo{
-        margin-left: -380px;
+        margin-left: -480px;
     }
 
     .photo img{
-        height: 1500px;
+        height: 2000px;
     
     }
     .intro{
         width:45%;
-        margin-top: 680px;
+        margin-top: 20px;
         font-size: 70px;
         margin-left: 350px;  
     }
+    .intro span{
+        font-size: 80px;
+    }
     .link{
-        margin-top: 350px
+        margin-top: 450px
     }
 
 
