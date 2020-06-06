@@ -334,10 +334,10 @@ background-color: blanchedalmond;
        color: white;
    }
    .dropdown{
-       background-color:yellowgreen ;
+      display: none;
    }
    .profile:hover .dropdown a{
-    color: black;
+   display: none;
     }
     .maina{
         display: block;
@@ -356,8 +356,9 @@ background-color: blanchedalmond;
     .exvid{
         margin-left: -40px;
     }
-    .expierence{
-        margin-top: 150px;
+    .profile i{
+        display:none;
+
     }
 
 
