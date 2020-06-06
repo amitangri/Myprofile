@@ -328,8 +328,41 @@ background-color: blanchedalmond;
     }
 
    #about{
-       font-size: 25px;
+       font-size: 20px;
    }
+   .profile{
+       color: white;
+   }
+   .dropdown{
+       background-color:yellowgreen ;
+   }
+   .profile:hover .dropdown a{
+    color: black;
+    }
+    .maina{
+        display: block;
+        margin-top:160px ;
+        justify-content: center;
+    }   
+    .eduvid{
+        margin-left: 140px;
+    }
+    .edupic{
+        display: none;
+    }
+    .extext{
+        display: none;
+    }
+    .exvid{
+        margin-left: -40px;
+    }
+    .expierence{
+        margin-top: 150px;
+    }
+
+
+   
+
 
     
         
