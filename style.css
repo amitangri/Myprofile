@@ -241,6 +241,9 @@ background-color: blanchedalmond;
     font-family: arizonia;
     font-size: 40px;
 }
+.contacta{
+    display: none;
+}
 
 @media only screen and (max-width: 980px){
 
@@ -359,6 +362,33 @@ background-color: blanchedalmond;
     .profile i{
         display:none;
 
+    }
+    .contacta{
+        display: block;
+        width:94.3%;
+        text-align: center;
+        margin-top: 0px;
+        margin-left: 30px;
+        background-color: blanchedalmond;
+    }
+    .form{
+    
+        display: none;
+    }
+    .contact{
+        margin-top: 150px;
+        justify-content: center;
+    }
+    .context h3{
+        text-align: center;
+        font-size: 25px;
+    }
+    .context{
+        width: 85%;
+        margin-left: 10px;
+    }
+    .box p{
+        font-size: 19px;
     }
 
 
