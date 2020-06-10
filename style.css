@@ -202,7 +202,7 @@ background-color: blanchedalmond;
 .expierence{
     width:94.5%;
     margin-left: 30px;
-    margin-top:20px;
+    margin-top:95px;
     display:flex;
     background-color: blanchedalmond;
     padding-top: 0px;
@@ -217,6 +217,29 @@ background-color: blanchedalmond;
     width: 210px;
     margin-top: 50px;
 }
+.skillimg{
+    margin-top: 85px;
+    display: flex;
+    justify-content: center;
+}
+.mgmtskills{
+    width:94.5%;
+    margin-left: 30px;
+    background-color: blanchedalmond;
+}
+.skilltxt{
+    width: 90%;
+    margin-left: 1%;
+    display: flex;
+    justify-content: space-around;
+}
+.cont{
+    width: 15%;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgba(219, 216, 219, 0.692);
+}
+
 .contact{
     width:94.3%;
     display: flex;
