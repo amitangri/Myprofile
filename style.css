@@ -233,27 +233,7 @@ background-color: blanchedalmond;
     display: flex;
     justify-content: space-around;
 }
-.pip{
-    width:94.5%;
-    margin-left: 30px;
-    background-color: blanchedalmond;
-    height: 550px;
-    display: flex;
-    justify-items: center;
-    margin-top: -10px;
-    padding-top: -30px;
-}
-#dh{
-    margin-top: 100px;
-    font-size: 0px;
-}
-.pip video{
-    margin-top: 30px;
-    margin-left: 100px;
-}
-.pip h1{
-    width: 30px;
-}
+
 .cont{
     width: 15%;
     border-style: solid;
