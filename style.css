@@ -279,8 +279,11 @@ background-color: blanchedalmond;
     align-items: flex-start;
     margin-left: 30px;
     width:420px;
-    border-style: double;
     text-align: center;
+}
+.webhead{
+    background-color: black;
+    color:rgb(253, 205, 71);
 }
 
 @media only screen and (max-width: 980px){
@@ -427,6 +430,11 @@ background-color: blanchedalmond;
     }
     .box p{
         font-size: 19px;
+    }
+    .mainblog{
+        display: block;
+        margin-top:160px ;
+        justify-content: center;
     }
 
 
