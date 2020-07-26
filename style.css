@@ -285,6 +285,13 @@ background-color: blanchedalmond;
     background-color: black;
     color:rgb(253, 205, 71);
 }
+#closebut{
+    background-color: black;
+    color: rgb(253, 205, 71);
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
 .qblock{
     width: 80%;
     margin-left: 60px;
@@ -300,9 +307,22 @@ background-color: blanchedalmond;
     border-style: groove;
     padding-left: 20px;
     padding-right: 20px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.q2{
+   
+    border-style: groove;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+#first{
+    display: none;
 }
 
-#first{
+#second{
     display: none;
 }
 
